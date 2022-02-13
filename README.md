@@ -1,1 +1,1 @@
-# tic-tac-toe
+# tic-tac-toe (beginner) (first coding project)
